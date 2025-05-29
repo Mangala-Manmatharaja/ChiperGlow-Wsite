@@ -45,3 +45,13 @@ To run this project locally:
       npm start
       
 5.The app will open at http://localhost:3000 .
+
+## 🚀 Deployment
+  
+  You can deploy this app easily using platforms like:
+
+  - Vercel
+  - Netlify
+  - GitHub Pages
+
+For deployment instructions specific to any of these services, check their official documentation.
