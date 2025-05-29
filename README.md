@@ -28,6 +28,20 @@
 
 To run this project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/chiperglow.git 
+1.Clone the repository:
+     
+      git clone https://github.com/your-username/chiperglow.git 
+
+2.Navigate into the project directory:
+                                                   
+      cd chiperglow
+
+3.Install dependencies:
+         
+      npm install
+
+4.Start the development server:
+  
+      npm start
+      
+5.The app will open at http://localhost:3000 .
