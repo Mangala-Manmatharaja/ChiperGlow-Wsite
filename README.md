@@ -59,3 +59,7 @@ For deployment instructions specific to any of these services, check their offic
 ### 📝 License
 
   This project is licensed under the MIT License – see the LICENSE file for details.
+
+### 👥 Contributions
+
+  Contributions are welcome! Please feel free to open an issue or submit a pull request if you'd like to improve or expand the project.
