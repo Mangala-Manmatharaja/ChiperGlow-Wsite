@@ -1,4 +1,4 @@
-# 🔐 ChiperGlow – Text Encr
+# 🔐 ChiperGlow – Text Encry
 
 **ChiperGlow** is a simple yet elegant web-based text encryption tool built with React and styled using TailwindCSS. It allows users to encrypt or hash text using various algorithms like Caesar Cipher, MD5, and SHA-1.
 
